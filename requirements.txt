@@ -1,0 +1,3 @@
+# Runtime and tests use Python's standard library only (Python >= 3.11).
+# No pip packages, API keys, PyTorch or CUDA Toolkit are required by this client.
+# Install Ollama separately and use an RTX 5090-compatible NVIDIA driver.

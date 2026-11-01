@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+config.json
+.env
+.env.*
+workspace/
+.local-ai/
+*.gguf
+*.safetensors
+*.log

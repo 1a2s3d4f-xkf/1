@@ -1,0 +1,12 @@
+{
+  "base_url": "http://127.0.0.1:11434",
+  "model": "qwen3.5:27b-q4_K_M",
+  "num_ctx": 8192,
+  "num_predict": 2048,
+  "timeout_seconds": 180,
+  "max_steps": 6,
+  "max_tool_calls": 12,
+  "max_file_bytes": 8192,
+  "max_history_bytes": 32768,
+  "think": false
+}
